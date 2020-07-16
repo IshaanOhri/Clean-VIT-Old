@@ -25,7 +25,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Tech stacks used
 <p>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/android.png" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.png" height=40 hspace=20>
 </p>
 
 <br>
